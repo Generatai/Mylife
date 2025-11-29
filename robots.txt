@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /uploads/
+
+Sitemap: https://img1resize.in/sitemap.xml
+
+Crawl-delay: 1
